@@ -6,11 +6,11 @@ kaynak kodlar için proje ismine tıklayabilirsiniz.
 | Projects  | Demo |  
 |-----------|:---------|
 |  [Blog](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/%C3%B6dev-2)     | [Demo](https://patikadevprojects.vercel.app/%C3%B6dev-2/index.html)  | [Source Code] 
-|  [Google Beta](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/%C3%B6dev-3) | [Live Demo](https://patikadevprojects.vercel.app/%C3%B6dev-3/index.html)  |
-| [Müzik Dükkanım](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/css-%C3%B6dev-1)  | [Live Demo](https://patikadevprojects.vercel.app/css-%C3%B6dev-1/index.html)  |
-| [Müzik Dükkanım Bootstrap Edition](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/bootstrap-%C3%B6dev-1)  | [Live Demo](https://patikadevprojects.vercel.app/bootstrap-%C3%B6dev-1/)  |
-|  [Instagram Clone](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/bootstrap-%C3%B6dev-2) | [Live Demo](https://patikadevprojects.vercel.app/bootstrap-%C3%B6dev-2/)  |
-| [Lınkedln Clone](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/bootstrap-%C3%B6dev-3)  | [Live Demo](https://patikadevprojects.vercel.app/bootstrap-%C3%B6dev-3/)  |
-| [Dıgıtal Clock](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/JavaScript-%C3%B6dev-1)  | [Live Demo](https://patikadevprojects.vercel.app/JavaScript-%C3%B6dev-1/)  |
-| [Kodluyoruz TODO](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/JavaScript-%C3%B6dev-2)  |  [Live Demo](https://patikadevprojects.vercel.app/JavaScript-%C3%B6dev-2/) |
-| [Asian's Kitchen's Menu](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/JavaScript-%C3%B6dev-3) | [Live Demo](https://patikadevprojects.vercel.app/JavaScript-%C3%B6dev-3/)
+|  [Google Beta](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/%C3%B6dev-3) | [Demo](https://patikadevprojects.vercel.app/%C3%B6dev-3/index.html)  |
+| [Müzik Dükkanım](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/css-%C3%B6dev-1)  | [Demo](https://patikadevprojects.vercel.app/css-%C3%B6dev-1/index.html)  |
+| [Müzik Dükkanım Bootstrap Edition](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/bootstrap-%C3%B6dev-1)  | [Demo](https://patikadevprojects.vercel.app/bootstrap-%C3%B6dev-1/)  |
+|  [Instagram Clone](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/bootstrap-%C3%B6dev-2) | [Demo](https://patikadevprojects.vercel.app/bootstrap-%C3%B6dev-2/)  |
+| [Lınkedln Clone](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/bootstrap-%C3%B6dev-3)  | [Demo](https://patikadevprojects.vercel.app/bootstrap-%C3%B6dev-3/)  |
+| [Dıgıtal Clock](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/JavaScript-%C3%B6dev-1)  | [Demo](https://patikadevprojects.vercel.app/JavaScript-%C3%B6dev-1/)  |
+| [Kodluyoruz TODO](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/JavaScript-%C3%B6dev-2)  |  [Demo](https://patikadevprojects.vercel.app/JavaScript-%C3%B6dev-2/) |
+| [Asian's Kitchen's Menu](https://github.com/enesergun/kodluyoruzilkrepo/tree/main/JavaScript-%C3%B6dev-3) | [Demo](https://patikadevprojects.vercel.app/JavaScript-%C3%B6dev-3/)
